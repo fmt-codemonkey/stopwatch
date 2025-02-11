@@ -1,3 +1,4 @@
-<resources>
-    <string name="app_name">SagarAssignment1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">SagarAssignment1</string>
+    <string name="hello">Hello WearApp</string>
 </resources>
